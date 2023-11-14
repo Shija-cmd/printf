@@ -9,13 +9,12 @@ ___
 * It’s part of the Standard Input/Output Library (stdio.h) and is responsible for printing data to the standard output (typically the console) in a specified format.
 * It’s an essential tool for displaying information to users and debugging programs.
 printf include the following concepts:
-* Argument Handling *
-* Processing Format Specifiers *
-* Converting and Formatting *
-* Output Generation *
-* Error Handling *
-* Modifiers and Special Cases *
-* Memory Management *
-* Testing and Debugging *
-* Optimization and Efficiency *
-===
+* Argument Handling 
+* Processing Format Specifiers 
+* Converting and Formatting 
+* Output Generation 
+* Error Handling 
+* Modifiers and Special Cases 
+* Memory Management 
+* Testing and Debugging 
+* Optimization and Efficiency.
