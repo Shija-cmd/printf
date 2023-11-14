@@ -20,7 +20,17 @@ printf include the following concepts:
 * Optimization and Efficiency.
 
 ## Project files
-|File Name                                   | Description                                   |
-|:-------------------------------------------|----------------------------------------------:|
-|Readme.md                                   | This is a roject Doc File|
-|main.h file                                 | It contains function prototypes|
+|File Name    | Description                                   |
+|:------------|----------------------------------------------:|
+|Readme.md    | This is a roject Doc File                     |
+|main.h file  | It contains function prototypes               |
+|main.c       |                                               |
+|functions.c  |                                               |
+|functions2.c |                                               |
+|get_flags.c  |                                               |
+|get_prescion.c|                                              |
+|get_size.c    |                                              |
+|get_width.c   |                                              |
+|handle_print.c|                                              |
+|main.c        |                                              | 
+|main.h        |                                              |
