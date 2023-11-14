@@ -19,7 +19,7 @@ printf include the following concepts:
 * Testing and Debugging 
 * Optimization and Efficiency.
 
-## Files 
-|[] File Name                    | Description                                       |
-|[] Readme.md                    | This is a roject Doc File                         |
-|[] main.h file                  | It contains function prototypes                   |
+## Project files
+||File Name                   || Description                                       ||
+||Readme.md                    || This is a roject Doc File                         ||
+||main.h file                  || It contains function prototypes                   ||
