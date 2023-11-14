@@ -22,5 +22,5 @@ printf include the following concepts:
 ## Project files
 |File Name                                   | Description                                   |
 |:-------------------------------------------|----------------------------------------------:|
-|Readme.md                                   | This is a roject Doc File                     |
-|main.h file                                 | It contains function prototypes               |
+|Readme.md                                   | This is a roject Doc File|
+|main.h file                                 | It contains function prototypes|
