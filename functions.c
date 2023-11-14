@@ -3,7 +3,7 @@
 /************************* PRINT CHAR *************************/
 
 /**
- * print_char - function to print a char
+ * print_char - Prints a char
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
@@ -13,7 +13,7 @@
  * Return: Number of chars printed
  */
 int print_char(va_list types, char buffer[],
-	int flags, width, precision, size)
+	int flags, int width, int precision, int size)
 {
 	char c = va_arg(types, int);
 
@@ -31,7 +31,7 @@ int print_char(va_list types, char buffer[],
  * Return: Number of chars printed
  */
 int print_string(va_list types, char buffer[],
-	int flags, width, precision, size)
+	int flags, int width, int precision, int size)
 {
 	int length = 0, i;
 	char *str = va_arg(types, char *);
