@@ -12,7 +12,7 @@
  * Return: Number of chars printed.
  */
 int print_unsigned(va_list types, char buffer[],
-	int flags, int width, int precision, int size)
+	int flags, width, precision, size)
 {
 	int i = BUFF_SIZE - 2;
 	unsigned long int num = va_arg(types, unsigned long int);
@@ -38,7 +38,7 @@ int print_unsigned(va_list types, char buffer[],
 /************* PRINT UNSIGNED NUMBER IN OCTAL  ****************/
 /**
  * print_octal - Prints an unsigned number in octal notation
- * @types: Lista of arguments
+ * @types: List of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
  * @width: get width
