@@ -1,6 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
-/* Libraries used */
+/* Libraries included */
 
 #include <stdarg.h>
 #include <stdio.h>
